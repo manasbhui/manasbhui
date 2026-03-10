@@ -1,25 +1,105 @@
 <h1 align="center">Hi 👋, I'm Manas Ranjan Bhui</h1>
-<h3 align="center">A Proud Indian | Continuous Learner | Industry 4.0 Gold Medalist | Aspiring Data Analyst</h3>
+<h3 align="center">Aspiring Data Analyst | Industry 4.0 Gold Medalist | WorldSkills 2022 India Representative | Passionate about Data & AI</h3>
 
 <div align="center">
   <img src="https://sunilsinghtarkar.github.io/image/coderGif.gif" alt="coding" width="400"/>
 </div>
 
-- 🔭 I’m currently working on **data analysis projects that involve building advanced dashboards and models. These projects aim to solve complex business problems, optimize decision-making, and provide actionable insights from data.**
-  
-- 🌱 I'm expanding my skillset by learning **advanced data analytics techniques, including statistical analysis, machine learning, and data visualization, to enhance my expertise and stay updated with industry trends.**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/manasbhui?tab=repositories](https://github.com/manasbhui?tab=repositories)
+### 👨‍💻 About Me
 
-- 📫 How to reach me **manasbhui143@gmail.com**
+- 🎓 **B.Tech in Computer Science & Engineering** graduate from **CV Raman Global University**
+- 🥇 **Gold Medalist – IndiaSkills 2021–22 (Industry 4.0)**
+- 🌍 **Represented India at WorldSkills 2022 Special Edition – Stuttgart, Germany**
+- 📊 Passionate about **Data Analytics, Business Intelligence, and Machine Learning**
+- 🚀 Currently building **data analytics dashboards and real-world datasets analysis**
+- 🧠 Strong interest in **solving business problems using data**
 
-- ⚡ Fun fact **"I once represented India at the WorldSkills 2022 Special Edition in Germany for Industry 4.0, blending tech innovation with national pride!"**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🌱 Currently Learning
+
+- Advanced **Data Analytics**
+- **Machine Learning**
+- **Statistical Analysis**
+- **Data Visualization & Storytelling**
+- **NLP for Skill Extraction**
+
+---
+
+### 👨‍💻 My Work
+
+All of my projects are available here 👇  
+
+🔗 **GitHub Repository**  
+https://github.com/manasbhui?tab=repositories
+
+---
+
+### 📫 Contact Me
+
+📧 Email: **manasbhui143@gmail.com**
+
+---
+
+### 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/manas ranjan bhui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manas ranjan bhui" height="30" width="40" /></a>
-<a href="https://instagram.com/__manas.bhui__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__manas.bhui__" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manas-ranjan-bhui" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/__manas.bhui__" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
+</a>
+
+<a href="https://www.tableau.com/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40"/>
+</a>
+
+<a href="https://opencv.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.tensorflow.org" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+🇮🇳 I proudly represented **India at the WorldSkills 2022 Special Edition in Germany**, competing in **Industry 4.0**, combining **automation, robotics, IoT, and smart manufacturing technologies**.
+
+---
+
+⭐ *Turning data into insights and insights into impact.*
